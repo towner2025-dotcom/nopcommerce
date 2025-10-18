@@ -1,0 +1,101 @@
+2025-10-18 12:04:43,091 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:04:46,457 - INFO - Login Completed
+2025-10-18 12:04:53,542 - INFO - Searching company by name: Abbas Pvt Ltd
+2025-10-18 12:04:57,228 - WARNING - Company NOT found by name: Abbas Pvt Ltd
+2025-10-18 12:04:57,388 - INFO - Screenshot captured for missing company.
+2025-10-18 12:05:02,690 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:05:06,056 - INFO - Login Completed
+2025-10-18 12:05:13,353 - INFO - Searching company by email: dudekulaabbas174@gmail.com
+2025-10-18 12:05:16,566 - WARNING - Company NOT found by email: dudekulaabbas174@gmail.com
+2025-10-18 12:05:16,706 - INFO - Screenshot captured for missing company.
+2025-10-18 12:05:21,315 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:05:25,108 - INFO - Login Completed
+2025-10-18 12:05:32,902 - INFO - Searching company by phone: 8919893733
+2025-10-18 12:05:35,890 - WARNING - Company NOT found by phone: 8919893733
+2025-10-18 12:05:36,040 - INFO - Screenshot captured for missing company.
+2025-10-18 12:05:47,407 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:05:50,856 - INFO - Login Completed
+2025-10-18 12:05:58,047 - INFO - Searching company by name: Abbas Pvt Ltd
+2025-10-18 12:06:01,488 - WARNING - Company NOT found by name: Abbas Pvt Ltd
+2025-10-18 12:06:01,623 - INFO - Screenshot captured for missing company.
+2025-10-18 12:06:01,623 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:06:06,977 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:06:11,189 - INFO - Login Completed
+2025-10-18 12:06:22,117 - INFO - Searching company by email: dudekulaabbas174@gmail.com
+2025-10-18 12:06:26,230 - WARNING - Company NOT found by email: dudekulaabbas174@gmail.com
+2025-10-18 12:06:26,470 - INFO - Screenshot captured for missing company.
+2025-10-18 12:06:26,470 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:06:31,118 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:06:34,354 - INFO - Login Completed
+2025-10-18 12:06:43,600 - INFO - Searching company by phone: 8919893733
+2025-10-18 12:06:45,978 - WARNING - Company NOT found by phone: 8919893733
+2025-10-18 12:06:46,167 - INFO - Screenshot captured for missing company.
+2025-10-18 12:06:46,167 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:09:03,097 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:09:06,334 - INFO - Login Completed
+2025-10-18 12:09:13,847 - INFO - Searching company by name: Abbas Pvt Ltd
+2025-10-18 12:09:39,699 - WARNING - Company NOT found by name: Abbas Pvt Ltd
+2025-10-18 12:09:39,877 - INFO - Screenshot captured for missing company.
+2025-10-18 12:09:39,878 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:09:44,390 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:09:49,814 - INFO - Login Completed
+2025-10-18 12:10:00,555 - INFO - Searching company by email: dudekulaabbas174@gmail.com
+2025-10-18 12:10:07,683 - WARNING - Company NOT found by email: dudekulaabbas174@gmail.com
+2025-10-18 12:10:07,825 - INFO - Screenshot captured for missing company.
+2025-10-18 12:10:07,826 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:10:12,260 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:10:15,374 - INFO - Login Completed
+2025-10-18 12:10:23,048 - INFO - Searching company by phone: 8919893733
+2025-10-18 12:10:29,669 - WARNING - Company NOT found by phone: 8919893733
+2025-10-18 12:10:29,826 - INFO - Screenshot captured for missing company.
+2025-10-18 12:10:29,827 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:26:37,963 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:26:41,057 - INFO - Login Completed
+2025-10-18 12:26:48,982 - INFO - Searching company by name: Abbas Pvt Ltd
+2025-10-18 12:26:55,286 - INFO - Company found by name: Abbas Pvt Ltd
+2025-10-18 12:26:55,287 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:26:59,454 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:27:02,531 - INFO - Login Completed
+2025-10-18 12:27:09,792 - INFO - Searching company by email: dudekulaabbas174@gmail.com
+2025-10-18 12:27:14,337 - INFO - Company found by email: dudekulaabbas174@gmail.com
+2025-10-18 12:27:14,338 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:27:18,478 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:27:21,555 - INFO - Login Completed
+2025-10-18 12:27:28,552 - INFO - Searching company by phone: 8919893733
+2025-10-18 12:27:32,925 - WARNING - Company NOT found by phone: 8919893733
+2025-10-18 12:31:26,782 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:31:30,485 - INFO - Login Completed
+2025-10-18 12:31:37,746 - INFO - Searching company by name: Abbas Pvt Ltd
+2025-10-18 12:31:42,429 - INFO - Company found by name: Abbas Pvt Ltd
+2025-10-18 12:31:42,430 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:31:46,621 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:31:49,652 - INFO - Login Completed
+2025-10-18 12:31:57,311 - INFO - Searching company by email: dudekulaabbas174@gmail.com
+2025-10-18 12:32:02,213 - INFO - Company found by email: dudekulaabbas174@gmail.com
+2025-10-18 12:32:02,214 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:32:06,610 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:32:09,914 - INFO - Login Completed
+2025-10-18 12:32:17,666 - INFO - Searching company by phone: 8919893733
+2025-10-18 12:32:22,822 - INFO - Company found by phone: 8919893733
+2025-10-18 12:32:22,823 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:42:21,128 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:42:25,108 - INFO - Login Completed
+2025-10-18 12:42:39,438 - INFO - Searching company by name: Abbas Pvt Ltd
+2025-10-18 12:42:43,748 - INFO - Company found by name: Abbas Pvt Ltd
+2025-10-18 12:42:43,750 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:42:47,891 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:42:51,054 - INFO - Login Completed
+2025-10-18 12:42:58,401 - INFO - Searching company by email: dudekulaabbas174@gmail.com
+2025-10-18 12:43:03,105 - INFO - Company found by email: dudekulaabbas174@gmail.com
+2025-10-18 12:43:03,106 - INFO - ====== Test_05_Filter_Company Completed ======
+2025-10-18 12:43:07,267 - INFO - ====== Test_05_Filter_Company Started ======
+2025-10-18 12:43:10,854 - INFO - Login Completed
+2025-10-18 12:43:18,593 - INFO - Searching company by phone: 8919893738
+2025-10-18 12:43:43,794 - WARNING - Company NOT found by phone: 8919893738
+2025-10-18 13:29:00,118 - INFO - ******Test_01****** >>>>>test_valid_admin_login<<<<<
+2025-10-18 13:29:00,119 - INFO - ******Test_01****** >>>>>With Valued Data<<<<<
+2025-10-18 14:06:48,237 - INFO - ******Test_01****** >>>>>test_valid_admin_login<<<<<
+2025-10-18 14:06:48,238 - INFO - ******Test_01****** >>>>>With Valued Data<<<<<
+2025-10-18 14:07:00,610 - INFO - ******Test_02****** >>>>>test_valid_admin_login<<<<<
+2025-10-18 14:07:00,611 - INFO - ******Test_02****** >>>>>With inValued Data<<<<<
+2025-10-18 14:07:04,291 - INFO - ******Test_02****** >>>>>MisMatch<<<<<
